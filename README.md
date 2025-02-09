@@ -7,7 +7,7 @@
   </a>
 <h3 align="left">Tools</h3>
 <div align="left">
-  <a href="https://github.com/dedeepyadommeti">
+  <a href="https://github.com/dedeepyadommeti/Profile">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="60" alt="github logo"/>
   <img width="15" />
   
